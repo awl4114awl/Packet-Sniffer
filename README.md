@@ -51,7 +51,7 @@ Contributions are welcome! Please submit pull requests to help improve this tool
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/awl4114awl/Packet-Sniffer/blob/main/LICENSE) file for details.
 
 ## Contact
 
